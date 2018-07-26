@@ -1,10 +1,13 @@
 # XDA Keycap 3D Models
 
+![render](https://github.com/spooknik/XDA-Keycaps/blob/master/images/render01.jpg)
+
 These are 3d model of the XDA profile keycaps. I made them from scratch to be used in renders for keycap sets. You may use them for whatever you wish, in accordance with the MIT license. 
 
 They are not for 3D printing, and I cannot verify if they will work at all. Measurements are based off of my XDA Canvas keycaps using a calipers. 
 
 They are UV mapped, so you can use some noise for the top parts to get realistic PBT grain effect. 
+<<<<<<< HEAD
 
 
 
@@ -22,3 +25,5 @@ First thing is, I use 3DS Max 2017 so, on your software thing may be different. 
 7. Add the legend as an operand. Using 'Intersect' & 'Cookie'. This should produce the result seen below. ![render](https://raw.githubusercontent.com/spooknik/XDA-Keycaps/master/images/06.jpg)
 8. You can now add an 'edit poly' modifier to the stack and move the legend up a tiny bit (0.04mm) to prevent z-fighting.
 9. Add a different material to the legend. ![render](https://raw.githubusercontent.com/spooknik/XDA-Keycaps/master/images/07.jpg)
+=======
+>>>>>>> 8dd5ff18469a4dedf96d524a7fa5f10a253b6af4
