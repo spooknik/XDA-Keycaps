@@ -1,6 +1,6 @@
 # XDA Keycap 3D Models
 
-![render][https://github.com/spooknik/XDA-Keycaps/blob/master/images/render01.jpg]
+![render](https://github.com/spooknik/XDA-Keycaps/blob/master/images/render01.jpg)
 
 These are 3d model of the XDA profile keycaps. I made them from scratch to be used in renders for keycap sets. You may use them for whatever you wish, in accordance with the MIT license. 
 
